@@ -16,6 +16,22 @@ img = newArray(
 i = 5;
 
 open(img[i]);
+
+
 run("Trainable Weka Segmentation");
 
+call("trainableSegmentation.Weka_Segmentation.getProbability");
+selectWindow("Probability maps");
 
+run("Make Substack...", "slices=1");
+rename("CandidateNeurons");
+setThreshold(0.9, 1);
+run("Convert to Mask", "  black"); 
+
+
+run("Set Measurements...", "area redirect=None decimal=3");
+run("Analyze Particles...", "size=6000-Infinity show=[Bare Outlines] display clear include in_situ");
+
+
+selectWindow(win);
+run("Add Image...", "image=CandidateNeurons x=0 y=0 opacity=100 zero");
