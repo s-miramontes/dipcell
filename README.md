@@ -1,4 +1,4 @@
-dipcell
+DIPcell
 =======
 
 Digital image processing for cells
