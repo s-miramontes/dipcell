@@ -23,7 +23,7 @@ outputdir = "/Users/dani/Dropbox/MANAGEMENT/UCSF/2020/dipcell/data_output/";
 run("Image Sequence...", "open="+outputdir+" file=Section1_ sort");
 run("Make Montage...", "columns=2 rows=3 scale=0.25 label");
 run("Enhance Contrast", "saturated=0.35");
-saveAs("PNG", outpudir+"Montage.png");
+saveAs("PNG", outputdir+"Montage.png");
 
 
 //run("8-bit");

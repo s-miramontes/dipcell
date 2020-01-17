@@ -20,18 +20,23 @@ open(img[i]);
 
 run("Trainable Weka Segmentation");
 
+//Train manually, then call this
 call("trainableSegmentation.Weka_Segmentation.getProbability");
-selectWindow("Probability maps");
 
+
+selectWindow("Classification result");
 run("Make Substack...", "slices=1");
 rename("CandidateNeurons");
-setThreshold(0.9, 1);
+setThreshold(0.9, 1); //only consider candidates those with p>0.9
 run("Convert to Mask", "  black"); 
-
-
 run("Set Measurements...", "area redirect=None decimal=3");
-run("Analyze Particles...", "size=6000-Infinity show=[Bare Outlines] display clear include in_situ");
+run("Dilate");
+run("Analyze Particles...", "size=5000-Infinity show=Masks display clear include in_situ");
+run("Fill Holes");
+run("Remove Outliers...", "radius=5 threshold=50 which=Bright");
+run("Analyze Particles...", "size=5000-Infinity show=[Bare Outlines] display clear include in_situ");
+run("Dilate");
 
-
+//Open old image manually
 selectWindow(win);
 run("Add Image...", "image=CandidateNeurons x=0 y=0 opacity=100 zero");
