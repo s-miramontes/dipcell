@@ -13,7 +13,7 @@ What's going on
 
 <table border="0">
  <tr>
-    <td><img src="https://github.com/dani-lbnl/dipcell/blob/master/isbi2020_lea.jpg" width="400">
+    <td><img src="https://github.com/dani-lbnl/dipcell/blob/master/ISBI2020/isbi2020_lea.jpg" width="400">
     </td>
     <td>
      <p>
