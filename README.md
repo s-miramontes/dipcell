@@ -1,7 +1,7 @@
 DIPcell
 =======
 
-Digital image processing for brain cells - a XNEURON investigation with UCSF.
+Digital image processing for brain cells - investigations with UCSF.
 
 What's going on
 ---------------
