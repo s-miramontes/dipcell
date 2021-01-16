@@ -105,4 +105,5 @@ venv.bak/
 
 data/*.*
 data_output/**
-*.pptx
+ISBI2020/*.pptx
+ISBI2021/*.pptx
