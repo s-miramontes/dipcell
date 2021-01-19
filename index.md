@@ -29,4 +29,7 @@ The Team behind the Project
 - Lea T. Grinberg PhD, Principal Investigator Grinberg Lab, Memory Aging Center, UCSF
 - Daniela M. Ushizima PhD, Staff Scientist at Lawrence Berkeley National Lab and Affiiliate at Bakar Institute, UCSF
 
+<center>
+ <img src="DIPCellTeam.png" width="600">
+ </center>
 
