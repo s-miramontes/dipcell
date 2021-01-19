@@ -12,7 +12,7 @@ Non-destructive imaging methods preserve tissue integrity, leading to improved t
 
 <table border="0">
  <tr>
-    <td><img src="ISBI-Img.png" width="400">
+    <td><img src="ISBI-Img.png" width="600">
     </td>
     <td>
      <p>
