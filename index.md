@@ -24,10 +24,10 @@ Non-destructive imaging methods preserve tissue integrity, leading to improved t
 
 The Team behind the Project
 ---------------------------
-- Silvia Miramontes MIDS, Affiliate at Lawrence Berkeley National Lab 
-- Antonia M.H. Piergies BA, Staff Research Associate at Memory Aging Center, UCSF 
-- Lea T. Grinberg PhD, Principal Investigator Grinberg Lab, Memory Aging Center, UCSF
-- Daniela M. Ushizima PhD, Staff Scientist at Lawrence Berkeley National Lab and Affiiliate at Bakar Institute, UCSF
+- Silvia Miramontes MIDS, Affiliate at Lawrence Berkeley National Lab [Top Left].
+- Antonia M.H. Piergies BA, Staff Research Associate at Memory Aging Center, UCSF [Top Right]. 
+- Lea T. Grinberg PhD, Principal Investigator Grinberg Lab, Memory Aging Center, UCSF [Bottom Left].
+- Daniela M. Ushizima PhD, Staff Scientist at Lawrence Berkeley National Lab and Affiiliate at Bakar Institute, UCSF [Bottom Right].
 
 <center>
  <img src="DIPCellTeam.png" width="300">
