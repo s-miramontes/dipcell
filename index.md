@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+DIPcell
+=======
 
-You can use the [editor on GitHub](https://github.com/s-miramontes/dipcell/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+Digital image processing for brain cells - investigations with UCSF.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+What's going on
+---------------
+Non-destructive imaging methods preserve tissue integrity, leading to improved topography analysis, which are critical in the study of neurodegenerative diseases, such as Alzheimer’s Disease (AD). Our approach utilizes an immunofluorescence (IF) assay for measuring the colocalization of proteins and structures through staining of human post-mortem tissue to access and quantify neuron populations. This paper briefly discusses neuro-positive IF biomarkers and U-Net as part of a segmentation algorithms to detect blobs.
 
-### Markdown
+-	ISBI'21 paper: https://www.overleaf.com/project/5ffb9450e364bcb3e8ddf3d6
+- [code](coming soon)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/s-miramontes/dipcell/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<table border="0">
+ <tr>
+    <td><img src="https://github.com/dani-lbnl/dipcell/blob/master/ISBI2020/isbi2020_lea.jpg" width="400">
+    </td>
+    <td>
+     <p>
+      - Brain cells
+      </td>
+ </tr>
+</table>
