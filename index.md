@@ -12,7 +12,7 @@ Non-destructive imaging methods preserve tissue integrity, leading to improved t
 
 <table border="0">
  <tr>
-    <td><img src="https://github.com/s-miramontes/dipcell/blob/master/ISBI2021/ISBI-Img.png" width="400">
+    <td><img src="ISBI-Img.png" width="400">
     </td>
     <td>
      <p>
