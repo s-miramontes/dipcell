@@ -30,6 +30,6 @@ The Team behind the Project
 - Daniela M. Ushizima PhD, Staff Scientist at Lawrence Berkeley National Lab and Affiiliate at Bakar Institute, UCSF
 
 <center>
- <img src="DIPCellTeam.png" width="600">
+ <img src="DIPCellTeam.png" width="300">
  </center>
 
