@@ -16,7 +16,7 @@ Non-destructive imaging methods preserve tissue integrity, leading to improved t
     </td>
     <td>
      <p>
-      - Neuron detection from Immunofluorescent tissue using U-Net.
+      - Neuron detection from IF tissue using U-Net
       </td>
  </tr>
 </table>
