@@ -1,7 +1,6 @@
-DIPcell
-=======
-
-Digital image processing for brain cells - investigations with UCSF.
+---
+layout: default
+---
 
 What's going on?
 ---------------
