@@ -13,11 +13,6 @@ Non-destructive imaging methods preserve tissue integrity, leading to improved t
  <tr>
     <td><img src="ISBI-Img.png" width="600">
     </td>
-    <td>
-     <p>
-      - Neuron detection from IF tissue using U-Net
-     </p>
-     </td>
  </tr>
 </table>
 
