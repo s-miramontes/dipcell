@@ -1,3 +1,4 @@
-theme: jekyll-theme-minimal
 title: DIPell: Neuron Segmentation
 description: Digital image processing for brain cells in collaboration with UCSF.
+
+theme: jekyll-theme-minimal
